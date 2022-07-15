@@ -3,3 +3,6 @@ This Is A Fun Project Aswell, This Program Collects Information Of Prices From A
 
 
 Note: Loading Times Of The Program Heavily Depend On Your Internet Connection. Sometimes It Would Take 3 Seconds And Sometimes, More Than A Minute.
+
+
+Another Note: I Will Update This Project And Add More Coins To Scrape Prices Of.
